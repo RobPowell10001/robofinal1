@@ -1,0 +1,20 @@
+[0.286s] Invoking command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_finalproject build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/install.log --single-version-externally-managed install_data
+[0.378s] running egg_info
+[0.378s] writing build/webots_finalproject/webots_finalproject.egg-info/PKG-INFO
+[0.378s] writing dependency_links to build/webots_finalproject/webots_finalproject.egg-info/dependency_links.txt
+[0.379s] writing entry points to build/webots_finalproject/webots_finalproject.egg-info/entry_points.txt
+[0.379s] writing requirements to build/webots_finalproject/webots_finalproject.egg-info/requires.txt
+[0.379s] writing top-level names to build/webots_finalproject/webots_finalproject.egg-info/top_level.txt
+[0.379s] reading manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+[0.379s] writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+[0.379s] running build
+[0.379s] running build_py
+[0.380s] running install
+[0.380s] running install_lib
+[0.380s] running install_data
+[0.380s] copying resource/webots_finalproject -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index/packages
+[0.380s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/launch
+[0.381s] copying launch/webots_finalproject.launch.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/launch
+[0.381s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/worlds
+[0.381s] error: can't copy 'worlds/turtlebot3_finalproject.wbt': doesn't exist or not a regular file
+[0.392s] Invoked command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject' returned '1': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_finalproject build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/install.log --single-version-externally-managed install_data

@@ -1,0 +1,59 @@
+[0.287s] Invoking command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_apriltags build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/install.log --single-version-externally-managed install_data
+[0.381s] running egg_info
+[0.382s] writing build/webots_apriltags/webots_apriltags.egg-info/PKG-INFO
+[0.382s] writing dependency_links to build/webots_apriltags/webots_apriltags.egg-info/dependency_links.txt
+[0.382s] writing entry points to build/webots_apriltags/webots_apriltags.egg-info/entry_points.txt
+[0.382s] writing requirements to build/webots_apriltags/webots_apriltags.egg-info/requires.txt
+[0.382s] writing top-level names to build/webots_apriltags/webots_apriltags.egg-info/top_level.txt
+[0.383s] reading manifest file 'build/webots_apriltags/webots_apriltags.egg-info/SOURCES.txt'
+[0.383s] writing manifest file 'build/webots_apriltags/webots_apriltags.egg-info/SOURCES.txt'
+[0.383s] running build
+[0.383s] running build_py
+[0.384s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject
+[0.384s] copying webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject
+[0.384s] copying webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject
+[0.384s] copying webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject
+[0.384s] copying webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject
+[0.384s] running install
+[0.384s] running install_lib
+[0.385s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject
+[0.386s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_apriltags/webots_apriltags_simulation.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_apriltags/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_apriltags/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_apriltags/webots_apriltags.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build/lib/webots_apriltags/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags
+[0.386s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject/__init__.py to __init__.cpython-310.pyc
+[0.387s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject/webots_finalproject.py to webots_finalproject.cpython-310.pyc
+[0.387s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject/webots_apriltags_lab.py to webots_apriltags_lab.cpython-310.pyc
+[0.387s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_finalproject/webots_ros2_homework1_python.py to webots_ros2_homework1_python.cpython-310.pyc
+[0.388s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags/webots_apriltags_simulation.py to webots_apriltags_simulation.cpython-310.pyc
+[0.389s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags/__init__.py to __init__.cpython-310.pyc
+[0.389s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags/webots_apriltags_lab.py to webots_apriltags_lab.cpython-310.pyc
+[0.389s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags/webots_apriltags.py to webots_apriltags.cpython-310.pyc
+[0.390s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags/webots_ros2_homework1_python.py to webots_ros2_homework1_python.cpython-310.pyc
+[0.390s] running install_data
+[0.391s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/ament_index
+[0.391s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/ament_index/resource_index
+[0.391s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/ament_index/resource_index/packages
+[0.391s] copying resource/webots_apriltags -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/ament_index/resource_index/packages
+[0.391s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/launch
+[0.392s] copying launch/webots_apriltags.launch.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/launch
+[0.392s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/worlds
+[0.392s] copying worlds/turtlebot3_apriltags.wbt -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/worlds
+[0.392s] copying package.xml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags
+[0.392s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/resource
+[0.392s] copying resource/turtlebot_webots.urdf -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/resource
+[0.392s] copying resource/ros2control.yml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/resource
+[0.392s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/rviz
+[0.392s] copying rviz/turtlebot3_apriltags.rviz -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/share/webots_apriltags/rviz
+[0.392s] running install_egg_info
+[0.393s] Copying build/webots_apriltags/webots_apriltags.egg-info to /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages/webots_apriltags-0.0.0-py3.10.egg-info
+[0.393s] running install_scripts
+[0.404s] Installing webots_apriltags script to /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/webots_apriltags
+[0.404s] writing list of installed files to '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/install.log'
+[0.421s] Invoked command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject' returned '0': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_apriltags/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_apriltags build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_apriltags/install.log --single-version-externally-managed install_data

@@ -1,0 +1,47 @@
+[0.279s] Invoking command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_finalproject build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/install.log --single-version-externally-managed install_data
+[0.371s] running egg_info
+[0.371s] creating build/webots_finalproject/webots_finalproject.egg-info
+[0.371s] writing build/webots_finalproject/webots_finalproject.egg-info/PKG-INFO
+[0.372s] writing dependency_links to build/webots_finalproject/webots_finalproject.egg-info/dependency_links.txt
+[0.372s] writing entry points to build/webots_finalproject/webots_finalproject.egg-info/entry_points.txt
+[0.372s] writing requirements to build/webots_finalproject/webots_finalproject.egg-info/requires.txt
+[0.372s] writing top-level names to build/webots_finalproject/webots_finalproject.egg-info/top_level.txt
+[0.373s] writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+[0.373s] reading manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+[0.373s] writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+[0.373s] running build
+[0.374s] running build_py
+[0.374s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build
+[0.374s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib
+[0.374s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+[0.375s] copying webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+[0.375s] copying webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+[0.375s] copying webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+[0.375s] copying webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+[0.375s] running install
+[0.375s] running install_lib
+[0.375s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+[0.375s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+[0.375s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+[0.375s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+[0.375s] copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+[0.375s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/__init__.py to __init__.cpython-310.pyc
+[0.375s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_finalproject.py to webots_finalproject.cpython-310.pyc
+[0.375s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_apriltags_lab.py to webots_apriltags_lab.cpython-310.pyc
+[0.376s] byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_ros2_homework1_python.py to webots_ros2_homework1_python.cpython-310.pyc
+[0.377s] running install_data
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index/packages
+[0.378s] copying resource/webots_finalproject -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index/packages
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/launch
+[0.378s] copying launch/webots_finalproject.launch.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/launch
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/worlds
+[0.378s] copying worlds/maze.wbt -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/worlds
+[0.378s] copying package.xml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+[0.378s] copying resource/turtlebot_webots.urdf -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+[0.378s] copying resource/ros2control.yml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+[0.378s] creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/rviz
+[0.378s] error: can't copy 'rviz/turtlebot3_finalproject.rviz': doesn't exist or not a regular file
+[0.390s] Invoked command in '/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject' returned '1': PYTHONPATH=/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/webots_finalproject build --build-base /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build install --record /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/install.log --single-version-externally-managed install_data

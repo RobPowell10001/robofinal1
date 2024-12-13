@@ -1,0 +1,19 @@
+running egg_info
+writing build/webots_finalproject/webots_finalproject.egg-info/PKG-INFO
+writing dependency_links to build/webots_finalproject/webots_finalproject.egg-info/dependency_links.txt
+writing entry points to build/webots_finalproject/webots_finalproject.egg-info/entry_points.txt
+writing requirements to build/webots_finalproject/webots_finalproject.egg-info/requires.txt
+writing top-level names to build/webots_finalproject/webots_finalproject.egg-info/top_level.txt
+reading manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying worlds/maze.wbt -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/worlds
+copying package.xml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+copying resource/turtlebot_webots.urdf -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+copying resource/ros2control.yml -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/resource
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/webots_finalproject/rviz

@@ -1,0 +1,35 @@
+running egg_info
+creating build/webots_finalproject/webots_finalproject.egg-info
+writing build/webots_finalproject/webots_finalproject.egg-info/PKG-INFO
+writing dependency_links to build/webots_finalproject/webots_finalproject.egg-info/dependency_links.txt
+writing entry points to build/webots_finalproject/webots_finalproject.egg-info/entry_points.txt
+writing requirements to build/webots_finalproject/webots_finalproject.egg-info/requires.txt
+writing top-level names to build/webots_finalproject/webots_finalproject.egg-info/top_level.txt
+writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+reading manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+writing manifest file 'build/webots_finalproject/webots_finalproject.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+copying webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+copying webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+copying webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+copying webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject
+running install
+running install_lib
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/__init__.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_finalproject.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_apriltags_lab.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+copying /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/build/webots_finalproject/build/lib/webots_finalproject/webots_ros2_homework1_python.py -> /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject
+byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_finalproject.py to webots_finalproject.cpython-310.pyc
+byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_apriltags_lab.py to webots_apriltags_lab.cpython-310.pyc
+byte-compiling /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/lib/python3.10/site-packages/webots_finalproject/webots_ros2_homework1_python.py to webots_ros2_homework1_python.cpython-310.pyc
+running install_data
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index
+creating /home/thor10001/finalproject/webots_finalproject/src/webots_finalproject/install/webots_finalproject/share/ament_index/resource_index/packages
+error: can't copy 'resource/webots_finalproject': doesn't exist or not a regular file

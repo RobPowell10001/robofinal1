@@ -1,0 +1,6 @@
+[console_scripts]
+webots_finalproject = webots_finalproject.webots_finalproject:main
+
+[launch.frontend.launch_extension]
+launch_ros = launch_ros
+
